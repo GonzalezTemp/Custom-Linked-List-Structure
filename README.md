@@ -1,5 +1,5 @@
 # Custom-Linked-List-Structure
-Custome linked list
+Custom linked list
 
 Taken from school project description:
 
